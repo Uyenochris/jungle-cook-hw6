@@ -1,20 +1,26 @@
 # Jungle Cook — Homework 6
 
-This is my small Jungle Cook Homework 6 project. It has a home page and a login page based on the class screenshots.
+This is my Jungle Cook Homework 6 project. I made a home page and a login page using the pictures from class.
 
 ## Pages
 
 - `index.html` — Home page
-- `login.html` — Login and sign-up forms (visual demo only)
+- `login.html` — Login and sign-up page
 
-## Running it
+## How to Run
 
-Open `dist/index.html` in a browser, then use the navigation to visit the login page. No build tools are required.
+Open `dist/index.html` in a browser. Use the menu to go to the login page. You do not need to install anything.
 
-## Built with
+## What I Used
 
-HTML, CSS, and a little JavaScript. The mobile hamburger button opens and closes the menu. The pizza background is saved in the images folder. Login does not connect to a database yet.
+I used HTML, CSS, and a little JavaScript.
 
-## Known limitations
+The menu button works on phones. I also added a pizza background image.
 
-The pages are a simple attempt at the design, not an exact copy. Browse and Create Recipe are placeholders for later homework. The forms do not create or authenticate accounts.
+The login page is just for looks right now.
+
+## What Does Not Work Yet
+
+The Browse and Create Recipe pages are not done yet.
+
+The login and sign-up forms do not work yet.
